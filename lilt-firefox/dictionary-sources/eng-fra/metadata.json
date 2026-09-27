@@ -1,0 +1,43 @@
+{
+  "date": "2019-01-25",
+  "edition": "0.1.6",
+  "headwords": "8799",
+  "maintainerName": "FreeDict - no maintainer assigned",
+  "name": "eng-fra",
+  "releases": [
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-fra/0.1.6/freedict-eng-fra-0.1.6.stardict.tar.xz",
+      "checksum": "abf56a59444b591deaa20f7eed8bdf2286b335f9469431bc4df744e2b3f34b1f64427356d43ed9751cf02eb9733a2058f83b05fbaa1c2a8d04c97502817c42a8",
+      "date": "2024-01-10",
+      "platform": "stardict",
+      "size": "218960",
+      "version": "0.1.6"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-fra/0.1.6/freedict-eng-fra-0.1.6.dictd.tar.xz",
+      "checksum": "ae83b68b0bf64436eb3bff28293357e57e1caa196397327cf72fdc6f725c9ed68329b5ef32d50ff3a4ff99590791c8eee289f9d9f5f48cf247c9802a042cd43a",
+      "date": "2019-12-01",
+      "platform": "dictd",
+      "size": "203684",
+      "version": "0.1.6"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-fra/0.1.6/freedict-eng-fra-0.1.6.src.tar.xz",
+      "checksum": "7b7decb42f36617958303b8640616acc06e82aecd955e78949b67e083a7dbbdc4c668fee9cfcda20f219897767f64daabc942b3c3c01ed1f5e8d6ee56262e8a7",
+      "date": "2019-12-01",
+      "platform": "src",
+      "size": "212948",
+      "version": "0.1.6"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-fra/0.1.6/freedict-eng-fra-0.1.6.slob",
+      "checksum": "5669601e82c69e6f9489ea8bbc0d7f4deaa95f8d2ee6d8a4f7c604f307525bd7ab4062010d48bd9eae43b17ce6ab3683e8904e314673f9960ff5ff3a5d50b187",
+      "date": "2019-12-01",
+      "platform": "slob",
+      "size": "510808",
+      "version": "0.1.6"
+    }
+  ],
+  "sourceURL": "http://freedict.org/",
+  "status": "small"
+}

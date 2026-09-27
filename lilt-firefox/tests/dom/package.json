@@ -1,0 +1,1 @@
+{"name":"lilt-dom-regressions","private":true,"version":"0.1.1","scripts":{"test":"node --test --test-isolation=none regression.test.cjs"},"devDependencies":{"jsdom":"30.1.1"}}

@@ -1,0 +1,3166 @@
+[
+  {
+    "source": "en",
+    "target": "es",
+    "word": "the",
+    "candidates": [
+      {
+        "text": "el",
+        "reading": "el",
+        "meaning": "the · masculine singular",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "la",
+        "reading": "la",
+        "meaning": "the · feminine singular",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "los",
+        "reading": "los",
+        "meaning": "the · masculine plural",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "las",
+        "reading": "las",
+        "meaning": "the · feminine plural",
+        "characters": [],
+        "dictionary": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.8,
+      "probabilities": {
+        "candidate_3": 0,
+        "none": 0.15,
+        "candidate_1": 0.01,
+        "candidate_0": 0.84,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "es",
+    "word": "on",
+    "candidates": [
+      {
+        "text": "acerca de",
+        "reading": "",
+        "meaning": "on · Denoting performance or action by contact with the surface, upper part, or outside of anything; hence, by means of; with.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "competer",
+        "reading": "",
+        "meaning": "on · Expressing figurative placement, burden, or attachment.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "conectado",
+        "reading": "",
+        "meaning": "on · In the state of being active, functioning or operating.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "en",
+        "reading": "",
+        "meaning": "on · Positioned at the upper surface of, touching from above.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "encendido",
+        "reading": "",
+        "meaning": "on · In the state of being active, functioning or operating.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_3",
+      "confidence": 0.94,
+      "probabilities": {
+        "candidate_1": 0,
+        "candidate_4": 0.02,
+        "candidate_3": 0.96,
+        "none": 0.02,
+        "candidate_0": 0,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "es",
+    "word": "in",
+    "candidates": [
+      {
+        "text": "a",
+        "reading": "",
+        "meaning": "in · Into.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "adentro",
+        "reading": "",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "adentro de",
+        "reading": "",
+        "meaning": "in · Surrounded by; among; amidst.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "de moda",
+        "reading": "",
+        "meaning": "in · In fashion; popular.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "dentro",
+        "reading": "",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_4",
+      "confidence": 0.94,
+      "probabilities": {
+        "candidate_2": 0,
+        "candidate_4": 0.95,
+        "candidate_3": 0,
+        "none": 0.02,
+        "candidate_0": 0.02,
+        "candidate_1": 0.01
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Not approved: selected expression lacks adequate context or a better ordinary candidate is missing."
+  },
+  {
+    "source": "en",
+    "target": "es",
+    "word": "best",
+    "candidates": [
+      {
+        "text": "aventajar",
+        "reading": "",
+        "meaning": "best · (transitive) To beat in a contest.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "derrotar",
+        "reading": "",
+        "meaning": "best · (transitive) To beat in a contest.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "élite",
+        "reading": "",
+        "meaning": "best · (countable) The person (or persons; or thing or things) that is (are) most excellent.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "flor",
+        "reading": "",
+        "meaning": "best · (countable) The person (or persons; or thing or things) that is (are) most excellent.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "mejor",
+        "reading": "",
+        "meaning": "best · Most superior; most favorable.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_4",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_4": 1,
+        "candidate_3": 0,
+        "candidate_1": 0,
+        "candidate_0": 0,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "es",
+    "word": "first",
+    "candidates": [
+      {
+        "text": "estreno",
+        "reading": "",
+        "meaning": "first · (countable) Something that has never happened before; a new occurrence.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "para empezar",
+        "reading": "",
+        "meaning": "first · Before anything else; firstly.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "primer",
+        "reading": "",
+        "meaning": "first · Of or belonging to a first family.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "primeramente",
+        "reading": "",
+        "meaning": "first · Before anything else; firstly.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "primero",
+        "reading": "",
+        "meaning": "first · Of or belonging to a first family.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_4",
+      "confidence": 0.9,
+      "probabilities": {
+        "candidate_4": 0.93,
+        "none": 0.01,
+        "candidate_0": 0,
+        "candidate_3": 0,
+        "candidate_1": 0.02,
+        "candidate_2": 0.04
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "es",
+    "word": "bank",
+    "candidates": [
+      {
+        "text": "ahorrar",
+        "reading": "",
+        "meaning": "bank · (transitive) To put into a bank.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "almacén",
+        "reading": "",
+        "meaning": "bank · (countable, mostly, in combination) A safe and guaranteed place of storage for and retrieval of important items or goods.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "bajío",
+        "reading": "",
+        "meaning": "bank · (nautical, hydrology) An elevation under the sea; a shallow area of shifting sand, gravel, mud, and so forth",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "banca",
+        "reading": "",
+        "meaning": "bank · (countable) A branch office of such an institution.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "banco",
+        "reading": "",
+        "meaning": "bank · (countable) A branch office of such an institution.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_4",
+      "confidence": 0.98,
+      "probabilities": {
+        "candidate_2": 0,
+        "none": 0.01,
+        "candidate_1": 0,
+        "candidate_4": 0.99,
+        "candidate_0": 0,
+        "candidate_3": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "fr",
+    "word": "the",
+    "candidates": [
+      {
+        "text": "à la",
+        "reading": "",
+        "meaning": "the",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "au",
+        "reading": "o",
+        "meaning": "the",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "aux",
+        "reading": "o",
+        "meaning": "the",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "la",
+        "reading": "la",
+        "meaning": "the",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "le",
+        "reading": "lə",
+        "meaning": "the",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_4",
+      "confidence": 0.69,
+      "probabilities": {
+        "candidate_3": 0.05,
+        "none": 0.2,
+        "candidate_1": 0,
+        "candidate_0": 0,
+        "candidate_2": 0,
+        "candidate_4": 0.75
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "fr",
+    "word": "on",
+    "candidates": [
+      {
+        "text": "à",
+        "reading": "a",
+        "meaning": "on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "au milie de",
+        "reading": "omilidə",
+        "meaning": "on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "au moyen de",
+        "reading": "omwajdə",
+        "meaning": "on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "au sujet de",
+        "reading": "osyʒɛdə",
+        "meaning": "on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "contre",
+        "reading": "kɔ̃tʀ",
+        "meaning": "on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.63,
+      "probabilities": {
+        "candidate_3": 0.08,
+        "candidate_2": 0.01,
+        "candidate_4": 0,
+        "none": 0.21,
+        "candidate_1": 0,
+        "candidate_0": 0.7
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "fr",
+    "word": "in",
+    "candidates": [
+      {
+        "text": "à",
+        "reading": "a",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "au milie de",
+        "reading": "omilidə",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "dans",
+        "reading": "dɑ̃",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "en",
+        "reading": "ɑ̃",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "parmi",
+        "reading": "paʀmi",
+        "meaning": "in",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_2",
+      "confidence": 0.74,
+      "probabilities": {
+        "candidate_2": 0.79,
+        "none": 0.01,
+        "candidate_0": 0,
+        "candidate_3": 0.2,
+        "candidate_1": 0,
+        "candidate_4": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "fr",
+    "word": "best",
+    "candidates": [
+      {
+        "text": "animal",
+        "reading": "animal",
+        "meaning": "beast",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": false
+      },
+      {
+        "text": "badiner",
+        "reading": "badine",
+        "meaning": "jest",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": false
+      },
+      {
+        "text": "battre",
+        "reading": "batʀ",
+        "meaning": "beat",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": false
+      },
+      {
+        "text": "bête",
+        "reading": "bɛt",
+        "meaning": "beast",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": false
+      },
+      {
+        "text": "betterave",
+        "reading": "bɛtəʀav",
+        "meaning": "beet",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": false
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "none",
+      "confidence": 0.98,
+      "probabilities": {
+        "candidate_4": 0,
+        "candidate_3": 0.01,
+        "candidate_0": 0,
+        "candidate_1": 0,
+        "candidate_2": 0,
+        "none": 0.99
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Abstained: shortlist has no usable choice."
+  },
+  {
+    "source": "en",
+    "target": "fr",
+    "word": "first",
+    "candidates": [
+      {
+        "text": "au commencement",
+        "reading": "okɔmɑ̃səmɑ̃",
+        "meaning": "first",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "d'abord",
+        "reading": "dabɔʀ",
+        "meaning": "first",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "en premier lieu",
+        "reading": "pʀəmjeljø",
+        "meaning": "first",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "premier",
+        "reading": "pʀəmje",
+        "meaning": "first",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_3",
+      "confidence": 0.54,
+      "probabilities": {
+        "candidate_1": 0.36,
+        "none": 0,
+        "candidate_2": 0,
+        "candidate_3": 0.64,
+        "candidate_0": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "fr",
+    "word": "bank",
+    "candidates": [
+      {
+        "text": "banque",
+        "reading": "bɑ̃k",
+        "meaning": "bank",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_0": 1
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "ja",
+    "word": "the",
+    "candidates": [
+      {
+        "text": "ザ",
+        "reading": "za",
+        "meaning": "the · The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable...",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "その",
+        "reading": "",
+        "meaning": "the · The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable...",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "正しく",
+        "reading": "masashiku",
+        "meaning": "the · The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable...",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "正に",
+        "reading": "masani",
+        "meaning": "the · The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable...",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_1",
+      "confidence": 0.63,
+      "probabilities": {
+        "none": 0.24,
+        "candidate_3": 0,
+        "candidate_1": 0.71,
+        "candidate_0": 0.05,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "ja",
+    "word": "on",
+    "candidates": [
+      {
+        "text": "上",
+        "reading": "ue",
+        "meaning": "on · Positioned at the upper surface of, touching from above.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.89,
+      "probabilities": {
+        "none": 0.06,
+        "candidate_0": 0.94
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Not approved: selected expression lacks adequate context or a better ordinary candidate is missing."
+  },
+  {
+    "source": "en",
+    "target": "ja",
+    "word": "in",
+    "candidates": [
+      {
+        "text": "にあっては",
+        "reading": "niatteha",
+        "meaning": "in · in; on; at",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "に於ける",
+        "reading": "niokeru",
+        "meaning": "in · in; at; on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "で",
+        "reading": "de",
+        "meaning": "in · Contained by; inside.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "に",
+        "reading": "ni",
+        "meaning": "in · Contained by; inside.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "中",
+        "reading": "naka",
+        "meaning": "in · Contained by; inside.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_3",
+      "confidence": 0.25,
+      "probabilities": {
+        "none": 0.05,
+        "candidate_4": 0.36,
+        "candidate_3": 0.38,
+        "candidate_1": 0,
+        "candidate_0": 0,
+        "candidate_2": 0.21
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "ja",
+    "word": "best",
+    "candidates": [
+      {
+        "text": "最高",
+        "reading": "saikō",
+        "meaning": "best; highest quality",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "一番",
+        "reading": "ichiban",
+        "meaning": "best; number one",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "最良",
+        "reading": "sairyō",
+        "meaning": "best; most suitable",
+        "characters": [],
+        "dictionary": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_1",
+      "confidence": 0.49,
+      "probabilities": {
+        "candidate_0": 0.38,
+        "candidate_2": 0,
+        "none": 0,
+        "candidate_1": 0.62
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "ja",
+    "word": "first",
+    "candidates": [
+      {
+        "text": "最初",
+        "reading": "saisho",
+        "meaning": "first; the beginning",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "第一",
+        "reading": "daiichi",
+        "meaning": "first; number one",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "一番目",
+        "reading": "ichibanme",
+        "meaning": "first in order",
+        "characters": [],
+        "dictionary": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_1",
+      "confidence": 0.36,
+      "probabilities": {
+        "none": 0.02,
+        "candidate_0": 0.38,
+        "candidate_1": 0.52,
+        "candidate_2": 0.08
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "ja",
+    "word": "bank",
+    "candidates": [
+      {
+        "text": "堤",
+        "reading": "tsutsumi",
+        "meaning": "bank · bank; embankment; dike",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "堤防",
+        "reading": "teibou",
+        "meaning": "bank · bank; weir; embankment",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "岸",
+        "reading": "kishi",
+        "meaning": "bank · bank; coast; shore",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "銀行",
+        "reading": "ginkou",
+        "meaning": "bank · bank; banking institution",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "バンク",
+        "reading": "banku",
+        "meaning": "bank · (hydrology) An edge of river, lake, or other watercourse.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_3",
+      "confidence": 0.59,
+      "probabilities": {
+        "candidate_3": 0.66,
+        "candidate_0": 0.01,
+        "none": 0.06,
+        "candidate_1": 0,
+        "candidate_2": 0.25,
+        "candidate_4": 0.02
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "zh",
+    "word": "the",
+    "candidates": [
+      {
+        "text": "该",
+        "reading": "gai1",
+        "meaning": "the · Used before an adjective, indicating all things (especially persons) described by that adjective. [from 9th c.]",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "那",
+        "reading": "Na1",
+        "meaning": "the · The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable...",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_1",
+      "confidence": 0.39,
+      "probabilities": {
+        "candidate_1": 0.59,
+        "none": 0.32,
+        "candidate_0": 0.09
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "zh",
+    "word": "on",
+    "candidates": [
+      {
+        "text": "上",
+        "reading": "shang3",
+        "meaning": "on · Positioned at the upper surface of, touching from above.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "中",
+        "reading": "Zhong1",
+        "meaning": "on",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "信封",
+        "reading": "xin4 feng1",
+        "meaning": "on · Denoting performance or action by contact with the surface, upper part, or outside of anything; hence, by means of; with.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "开",
+        "reading": "kai1",
+        "meaning": "on · In the state of being active, functioning or operating.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.98,
+      "probabilities": {
+        "candidate_3": 0,
+        "candidate_2": 0,
+        "candidate_0": 0.99,
+        "candidate_1": 0,
+        "none": 0.01
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "zh",
+    "word": "in",
+    "candidates": [
+      {
+        "text": "中",
+        "reading": "Zhong1",
+        "meaning": "in · Part of; a member of; out of; from among.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "二合一",
+        "reading": "er4 he2 yi1",
+        "meaning": "2-in-1 · 2-in-1; two-in-one",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "入口",
+        "reading": "ru4 kou3",
+        "meaning": "in · A position of power or influence, or a way to get it.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "内",
+        "reading": "nei4",
+        "meaning": "in · Towards the speaker or other reference point.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "在",
+        "reading": "zai4",
+        "meaning": "in · In fashion; popular.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_3",
+      "confidence": 0.31,
+      "probabilities": {
+        "candidate_1": 0,
+        "candidate_3": 0.43,
+        "candidate_2": 0,
+        "candidate_0": 0.21,
+        "candidate_4": 0.32,
+        "none": 0.04
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "en",
+    "target": "zh",
+    "word": "best",
+    "candidates": [
+      {
+        "text": "最好",
+        "reading": "zui4 hao3",
+        "meaning": "best · best; had better ...; it would be best to ...",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "坠毁",
+        "reading": "zhui4 hui3",
+        "meaning": "best · (transitive) To beat in a contest.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "花朵",
+        "reading": "hua1 duo3",
+        "meaning": "best · (countable) The person (or persons; or thing or things) that is (are) most excellent.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.95,
+      "probabilities": {
+        "candidate_2": 0.01,
+        "none": 0.02,
+        "candidate_0": 0.97,
+        "candidate_1": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "zh",
+    "word": "first",
+    "candidates": [
+      {
+        "text": "一次",
+        "reading": "yi1 ci4",
+        "meaning": "first · first; first time; once",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "先",
+        "reading": "xian1",
+        "meaning": "first · Before anything else; firstly.",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "最初",
+        "reading": "zui4 chu1",
+        "meaning": "first · first; primary; initial",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "原始",
+        "reading": "yuan2 shi3",
+        "meaning": "first · first; original; primitive",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "第一",
+        "reading": "di4 yi1",
+        "meaning": "first · first; most important; primary; foremost",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_4",
+      "confidence": 0.9,
+      "probabilities": {
+        "candidate_2": 0,
+        "candidate_0": 0,
+        "none": 0,
+        "candidate_4": 0.93,
+        "candidate_1": 0.07,
+        "candidate_3": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "en",
+    "target": "zh",
+    "word": "bank",
+    "candidates": [
+      {
+        "text": "澨",
+        "reading": "shi4",
+        "meaning": "bank · bank; shore; name of a river",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "皋",
+        "reading": "gao1",
+        "meaning": "bank · bank; marsh",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "银行",
+        "reading": "yin2 hang2",
+        "meaning": "bank · bank",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "阤",
+        "reading": "tuo2",
+        "meaning": "bank · bank; hillside",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_2",
+      "confidence": 0.77,
+      "probabilities": {
+        "candidate_2": 0.82,
+        "candidate_3": 0.01,
+        "candidate_1": 0.02,
+        "none": 0.09,
+        "candidate_0": 0.06
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "es",
+    "target": "en",
+    "word": "agua",
+    "candidates": [
+      {
+        "text": "water",
+        "reading": "WAW-ter",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "body of water",
+        "reading": "",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "soda",
+        "reading": "/ˈsoʊdə/",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_0": 1,
+        "candidate_2": 0,
+        "none": 0,
+        "candidate_1": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "es",
+    "target": "en",
+    "word": "hola",
+    "candidates": [
+      {
+        "text": "hello",
+        "reading": "hello",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "hey",
+        "reading": "/heɪ/",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "hi",
+        "reading": "/haɪ/",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.37,
+      "probabilities": {
+        "candidate_1": 0,
+        "candidate_2": 0.47,
+        "candidate_0": 0.53,
+        "none": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "es",
+    "target": "fr",
+    "word": "agua",
+    "candidates": [
+      {
+        "text": "eau",
+        "reading": "oh",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "aquatique",
+        "reading": "akwatik",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "onde",
+        "reading": "ɔ̃d",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "abreuver",
+        "reading": "abʀœve",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "arroser",
+        "reading": "aʀoze",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_4": 0,
+        "none": 0,
+        "candidate_2": 0,
+        "candidate_3": 0,
+        "candidate_1": 0,
+        "candidate_0": 1
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "es",
+    "target": "fr",
+    "word": "hola",
+    "candidates": [
+      {
+        "text": "bonjour",
+        "reading": "bohn-ZHOOR",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "allô",
+        "reading": "alo",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.98,
+      "probabilities": {
+        "none": 0,
+        "candidate_0": 0.99,
+        "candidate_1": 0.01
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "es",
+    "target": "ja",
+    "word": "agua",
+    "candidates": [
+      {
+        "text": "水",
+        "reading": "mizu",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "水域",
+        "reading": "suiiki",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "炭酸飲料",
+        "reading": "tansaninryou",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "ソーダ",
+        "reading": "",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "ソーダ水",
+        "reading": "soodasui",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_4": 0,
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "candidate_3": 0,
+        "none": 0,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "es",
+    "target": "ja",
+    "word": "hola",
+    "candidates": [
+      {
+        "text": "こんにちは",
+        "reading": "konnichiwa",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "ハロー",
+        "reading": "haroo",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "今日は",
+        "reading": "konnichiha",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "今日わ",
+        "reading": "konnichiha",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "よ",
+        "reading": "yo",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.96,
+      "probabilities": {
+        "candidate_0": 0.97,
+        "none": 0.01,
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "candidate_2": 0.01,
+        "candidate_1": 0.01
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "es",
+    "target": "zh",
+    "word": "agua",
+    "candidates": [
+      {
+        "text": "水",
+        "reading": "shuǐ",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "水体",
+        "reading": "shui3 ti3",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "碳酸钠",
+        "reading": "tan4 suan1 na4",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "软饮料",
+        "reading": "ruan3 yin3 liao4",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "溍",
+        "reading": "jin4",
+        "meaning": "agua",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "es",
+    "target": "zh",
+    "word": "hola",
+    "candidates": [
+      {
+        "text": "你好",
+        "reading": "nǐ hǎo",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "喂",
+        "reading": "wei2",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "哎哟",
+        "reading": "ai1 yo1",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "嘿",
+        "reading": "hei1",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "你",
+        "reading": "ni3",
+        "meaning": "hola",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_2": 0,
+        "none": 0,
+        "candidate_0": 1,
+        "candidate_3": 0,
+        "candidate_4": 0,
+        "candidate_1": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "en",
+    "word": "eau",
+    "candidates": [
+      {
+        "text": "water",
+        "reading": "WAW-ter",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_0": 1
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "en",
+    "word": "bonjour",
+    "candidates": [
+      {
+        "text": "hello",
+        "reading": "hello",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "good day",
+        "reading": "guddei",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "good morning",
+        "reading": "gudmɔːniŋ",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.98,
+      "probabilities": {
+        "candidate_2": 0.01,
+        "candidate_1": 0,
+        "none": 0,
+        "candidate_0": 0.99
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "es",
+    "word": "eau",
+    "candidates": [
+      {
+        "text": "agua",
+        "reading": "AH-gwah",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "aguacha",
+        "reading": "",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "linfa",
+        "reading": "",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "wata",
+        "reading": "",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "botella de agua",
+        "reading": "",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_1": 0,
+        "candidate_3": 0,
+        "candidate_4": 0,
+        "none": 0,
+        "candidate_0": 1,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "es",
+    "word": "bonjour",
+    "candidates": [
+      {
+        "text": "hola",
+        "reading": "OH-lah",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "buenos días",
+        "reading": "",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "buenas",
+        "reading": "",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "buen día",
+        "reading": "",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "buenas matinas",
+        "reading": "",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.74,
+      "probabilities": {
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "none": 0,
+        "candidate_1": 0.21,
+        "candidate_0": 0.79,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "fr",
+    "target": "ja",
+    "word": "eau",
+    "candidates": [
+      {
+        "text": "水",
+        "reading": "mizu",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "水分",
+        "reading": "suibun",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "みず",
+        "reading": "",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "水をやる",
+        "reading": "mizuwoyaru",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "濡れる",
+        "reading": "nureru",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.98,
+      "probabilities": {
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "candidate_2": 0.02,
+        "candidate_1": 0,
+        "candidate_0": 0.98,
+        "none": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "ja",
+    "word": "bonjour",
+    "candidates": [
+      {
+        "text": "こんにちは",
+        "reading": "konnichiwa",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "今日は",
+        "reading": "konnichiha",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "お早うございます",
+        "reading": "ohayougozaimasu",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "お早う御座います",
+        "reading": "ohayougozaimasu",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "おはよう御座います",
+        "reading": "ohayougozaimasu",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.96,
+      "probabilities": {
+        "candidate_4": 0.01,
+        "candidate_1": 0,
+        "candidate_0": 0.97,
+        "candidate_3": 0,
+        "none": 0.01,
+        "candidate_2": 0.01
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "zh",
+    "word": "eau",
+    "candidates": [
+      {
+        "text": "水",
+        "reading": "shuǐ",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "溍",
+        "reading": "jin4",
+        "meaning": "eau",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "none": 0,
+        "candidate_0": 1,
+        "candidate_1": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "fr",
+    "target": "zh",
+    "word": "bonjour",
+    "candidates": [
+      {
+        "text": "你好",
+        "reading": "nǐ hǎo",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "早上好",
+        "reading": "zao3 shang5 hao3",
+        "meaning": "bonjour",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "candidate_0": 0.99,
+        "none": 0,
+        "candidate_1": 0.01
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "en",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "water",
+        "reading": "WAW-ter",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "candidate_0": 1,
+        "none": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "en",
+    "word": "こんにちは",
+    "candidates": [
+      {
+        "text": "hello",
+        "reading": "hello",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "cheerio",
+        "reading": "/ˈtʃɪəɹ.i.əʊ/",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "good afternoon",
+        "reading": "",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "good day",
+        "reading": "",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "hi",
+        "reading": "/haɪ/",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.75,
+      "probabilities": {
+        "candidate_2": 0,
+        "candidate_3": 0,
+        "candidate_1": 0,
+        "none": 0.01,
+        "candidate_4": 0.19,
+        "candidate_0": 0.8
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": false,
+    "reviewNote": "Below confidence gate; retain existing ranking."
+  },
+  {
+    "source": "ja",
+    "target": "es",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "agua",
+        "reading": "AH-gwah",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "aguacha",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "linfa",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "wata",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "botella de agua",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "candidate_2": 0,
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "none": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "es",
+    "word": "こんにちは",
+    "candidates": [
+      {
+        "text": "hola",
+        "reading": "OH-lah",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "buenas tardes",
+        "reading": "",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "buenos días",
+        "reading": "",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "buenas",
+        "reading": "",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.92,
+      "probabilities": {
+        "candidate_3": 0,
+        "candidate_2": 0.04,
+        "none": 0.03,
+        "candidate_1": 0,
+        "candidate_0": 0.93
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "fr",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "eau",
+        "reading": "oh",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "aquatique",
+        "reading": "akwatik",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "onde",
+        "reading": "ɔ̃d",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "abreuver",
+        "reading": "abʀœve",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "arroser",
+        "reading": "aʀoze",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_4": 0,
+        "candidate_2": 0,
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "candidate_3": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "fr",
+    "word": "こんにちは",
+    "candidates": [
+      {
+        "text": "bonjour",
+        "reading": "bohn-ZHOOR",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "none": 0,
+        "candidate_0": 1
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "zh",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "水",
+        "reading": "shuǐ",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "溍",
+        "reading": "jin4",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_1": 0,
+        "none": 0,
+        "candidate_0": 1
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "ja",
+    "target": "zh",
+    "word": "こんにちは",
+    "candidates": [
+      {
+        "text": "你好",
+        "reading": "nǐ hǎo",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "喂",
+        "reading": "wei2",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "早上好",
+        "reading": "zao3 shang5 hao3",
+        "meaning": "こんにちは",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_0": 1,
+        "candidate_1": 0,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "en",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "water",
+        "reading": "WAW-ter",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "Shui ethnic group",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "body of water",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "deep water",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_3": 0,
+        "candidate_2": 0,
+        "candidate_0": 1,
+        "candidate_1": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "en",
+    "word": "你好",
+    "candidates": [
+      {
+        "text": "hello",
+        "reading": "hello",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "ahoy",
+        "reading": "/əˈhɔɪ/",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "bye-bye",
+        "reading": "/baɪˈbaɪ/",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "cheerio",
+        "reading": "/ˈtʃɪəɹ.i.əʊ/",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      },
+      {
+        "text": "good day",
+        "reading": "",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": false,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_1": 0,
+        "none": 0,
+        "candidate_2": 0,
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "candidate_0": 1
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "es",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "agua",
+        "reading": "AH-gwah",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "aguacha",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "linfa",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "wata",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "botella de agua",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "candidate_4": 0,
+        "none": 0,
+        "candidate_3": 0,
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "es",
+    "word": "你好",
+    "candidates": [
+      {
+        "text": "hola",
+        "reading": "OH-lah",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "a la vista",
+        "reading": "",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "ah",
+        "reading": "",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "adiós",
+        "reading": "",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "chau",
+        "reading": "",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "candidate_1": 0,
+        "candidate_3": 0,
+        "candidate_2": 0,
+        "candidate_0": 1,
+        "candidate_4": 0,
+        "none": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "fr",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "eau",
+        "reading": "oh",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "aquatique",
+        "reading": "akwatik",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "onde",
+        "reading": "ɔ̃d",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "abreuver",
+        "reading": "abʀœve",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "arroser",
+        "reading": "aʀoze",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 1,
+      "probabilities": {
+        "none": 0,
+        "candidate_3": 0,
+        "candidate_4": 0,
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "candidate_2": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "fr",
+    "word": "你好",
+    "candidates": [
+      {
+        "text": "bonjour",
+        "reading": "bohn-ZHOOR",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "allô",
+        "reading": "alo",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "honorer",
+        "reading": "onɔʀe",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "honneur",
+        "reading": "ɔnœʀ",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "salut",
+        "reading": "saly",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "candidate_2": 0,
+        "candidate_4": 0,
+        "candidate_3": 0,
+        "candidate_1": 0,
+        "candidate_0": 1,
+        "none": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "ja",
+    "word": "水",
+    "candidates": [
+      {
+        "text": "水",
+        "reading": "mizu",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "水分",
+        "reading": "suibun",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "みず",
+        "reading": "",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "水をやる",
+        "reading": "mizuwoyaru",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "濡れる",
+        "reading": "nureru",
+        "meaning": "水",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "candidate_2": 0.01,
+        "candidate_3": 0,
+        "none": 0,
+        "candidate_0": 0.99,
+        "candidate_4": 0,
+        "candidate_1": 0
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  },
+  {
+    "source": "zh",
+    "target": "ja",
+    "word": "你好",
+    "candidates": [
+      {
+        "text": "こんにちは",
+        "reading": "konnichiwa",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true
+      },
+      {
+        "text": "じゃあね",
+        "reading": "jaane",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "では",
+        "reading": "deha",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "またね",
+        "reading": "",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      },
+      {
+        "text": "バイ",
+        "reading": "bai",
+        "meaning": "你好",
+        "characters": [],
+        "dictionary": true,
+        "pivot": true,
+        "exact": true
+      }
+    ],
+    "answer": {
+      "type": "choice",
+      "choice": "candidate_0",
+      "confidence": 0.99,
+      "probabilities": {
+        "candidate_2": 0,
+        "candidate_3": 0,
+        "candidate_4": 0,
+        "none": 0.01,
+        "candidate_1": 0,
+        "candidate_0": 0.99
+      }
+    },
+    "model": "jev-1.13.0",
+    "approved": true,
+    "reviewNote": "Assistant-reviewed ordinary provisional meaning; not a context-specific grammar guarantee."
+  }
+]

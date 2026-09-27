@@ -1,0 +1,81 @@
+{
+  "manifest_version": 3,
+  "name": "Passport",
+  "version": "0.3.2",
+  "description": "Translate where you type. Discover the words along the way.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "lilt-prototype@local.example",
+      "strict_min_version": "142.0",
+      "data_collection_permissions": {
+        "required": [
+          "websiteContent",
+          "personalCommunications",
+          "searchTerms",
+          "authenticationInfo"
+        ]
+      }
+    }
+  },
+  "permissions": [
+    "storage",
+    "theme",
+    "search"
+  ],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/*",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+    "scripts": [
+      "core.js",
+      "ranking.js",
+      "rankings-data.js",
+      "live-ranking.js",
+      "dictionary.js",
+      "lexicon.js",
+      "background.js",
+      "omnibox.js"
+    ]
+  },
+  "action": {
+    "default_title": "Passport",
+    "default_popup": "popup.html",
+    "default_icon": "icon.svg"
+  },
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "core.js",
+        "ranking.js",
+        "rankings-data.js",
+        "dictionary.js",
+        "lexicon.js",
+        "editor.js",
+        "appearance.js",
+        "content.js"
+      ],
+      "all_frames": true,
+      "run_at": "document_idle"
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'none'; connect-src 'self' https://generativelanguage.googleapis.com https://api.typesafe.ai http://localhost:* http://127.0.0.1:* http://[::1]:*"
+  },
+  "omnibox": {
+    "keyword": "pp"
+  }
+}

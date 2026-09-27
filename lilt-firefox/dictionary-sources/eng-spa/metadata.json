@@ -1,0 +1,43 @@
+{
+  "date": "2025-11-23",
+  "edition": "2025.11.23",
+  "headwords": "64258",
+  "maintainerName": "Karl Bartel",
+  "name": "eng-spa",
+  "releases": [
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-spa/2025.11.23/freedict-eng-spa-2025.11.23.stardict.tar.xz",
+      "checksum": "ddcb967c6e06a16287d7e0ab17fad38948b3a2bc7b0c73bb8778990efd54d9f9048cdf7d891d80810ab272929c66deb070559286c11d0cc65b208e1f84f07b6b",
+      "date": "2026-02-11",
+      "platform": "stardict",
+      "size": "3968796",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-spa/2025.11.23/freedict-eng-spa-2025.11.23.slob",
+      "checksum": "51ccba2d9b90f7efd47333dcf6d9f058adaf38b8d9332840d14708b76269c7226907f3f3b7b87593925a1187b6893e17f39c9c9a274ca1875c59050649187930",
+      "date": "2026-02-11",
+      "platform": "slob",
+      "size": "8059552",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-spa/2025.11.23/freedict-eng-spa-2025.11.23.dictd.tar.xz",
+      "checksum": "d15378cb29d7acd7472cbf57ef7cd00f47c561d556b86f725a2277ed60f51c1522cd6adb217381eca84df9f5f777d1bdc85c8149feea665a1d67ab2d919666fe",
+      "date": "2026-02-11",
+      "platform": "dictd",
+      "size": "5010204",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-spa/2025.11.23/freedict-eng-spa-2025.11.23.src.tar.xz",
+      "checksum": "622e8fec6c4178cb4c21e4577701c5325670f825331b07a185b4c6b810603c337e80429738a97581f68f668667910e7ad36f27332eaee2828f1f906537852fe3",
+      "date": "2026-02-11",
+      "platform": "src",
+      "size": "3715012",
+      "version": "2025.11.23"
+    }
+  ],
+  "sourceURL": "http://www.wikdict.com/",
+  "status": "big enough to be useful"
+}

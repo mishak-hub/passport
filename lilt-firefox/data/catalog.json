@@ -1,0 +1,51 @@
+{
+  "fr": {
+    "entries": 14284,
+    "readings": 13845,
+    "bytes": 713533,
+    "files": [
+      "fr-0.json"
+    ]
+  },
+  "es": {
+    "entries": 121208,
+    "readings": 0,
+    "bytes": 14913158,
+    "files": [
+      "es-0.json",
+      "es-1.json",
+      "es-2.json",
+      "es-3.json",
+      "es-4.json",
+      "es-5.json",
+      "es-6.json"
+    ]
+  },
+  "ja": {
+    "entries": 102802,
+    "readings": 91747,
+    "bytes": 11872290,
+    "files": [
+      "ja-0.json",
+      "ja-1.json",
+      "ja-2.json",
+      "ja-3.json",
+      "ja-4.json",
+      "ja-5.json"
+    ]
+  },
+  "zh": {
+    "entries": 122838,
+    "readings": 117972,
+    "bytes": 11591912,
+    "files": [
+      "zh-0.json",
+      "zh-1.json",
+      "zh-2.json",
+      "zh-3.json",
+      "zh-4.json",
+      "zh-5.json",
+      "zh-6.json"
+    ]
+  }
+}

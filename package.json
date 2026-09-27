@@ -1,0 +1,14 @@
+{
+  "name": "passport-extension",
+  "version": "0.3.2",
+  "private": true,
+  "description": "Firefox language exposure companion",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test --test-isolation=none lilt-firefox/tests/*.test.cjs lilt-firefox/tests/dom/*.test.cjs",
+    "lint": "web-ext lint --source-dir lilt-firefox --ignore-files \"tests/**\" \"dictionary-sources/**\" README.md VALIDATION.md JEV.md",
+    "dev": "web-ext run --source-dir lilt-firefox",
+    "package": "python tools/package.py"
+  },
+  "devDependencies": { "jsdom": "30.1.1", "web-ext": "10.7.0" }
+}

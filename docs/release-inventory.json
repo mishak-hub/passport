@@ -1,0 +1,244 @@
+[
+  {
+    "version": "0.1.0",
+    "file": "lilt-firefox-0.1.0.xpi",
+    "sha256": "e2f8b848c5db2c90a84b4d7e701e6dddb825b5b60cc8d0d29a96fc6602a70212",
+    "name": "Lilt \u00b7 Learn as you type",
+    "added": [
+      "background.js",
+      "content.js",
+      "core.js",
+      "editor.js",
+      "icon.svg",
+      "lexicon.js",
+      "manifest.json",
+      "options.html",
+      "options.js",
+      "popup.html",
+      "popup.js",
+      "ui.css"
+    ],
+    "changed": [],
+    "removed": []
+  },
+  {
+    "version": "0.1.1",
+    "file": "lilt-firefox-0.1.1.xpi",
+    "sha256": "b8810ddf4fc221a8558f8d57ccc7017355dcfccbd4d73be0f0f60179edf8ddc7",
+    "name": "Lilt \u00b7 Learn as you type",
+    "added": [],
+    "changed": [
+      "background.js",
+      "content.js",
+      "manifest.json",
+      "options.js"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.0",
+    "file": "passport-firefox-0.2.0.xpi",
+    "sha256": "f266559eff8a875d87910375e2d1c8c7c5798add9d7bb68bc6257aea264b8602",
+    "name": "Passport",
+    "added": [
+      "dictionary.js",
+      "omnibox.js",
+      "sources.html",
+      "data/catalog.json",
+      "data/CC-BY-SA-4.0.txt",
+      "data/EDRDG-license.html",
+      "data/eng-fra-header.xml",
+      "data/eng-fra-LICENSE.txt",
+      "data/eng-jpn-header.xml",
+      "data/eng-jpn-LICENSE.txt",
+      "data/eng-spa-header.xml",
+      "data/eng-spa-LICENSE.txt",
+      "data/eng-zho-header.xml",
+      "data/eng-zho-LICENSE.txt",
+      "data/es-0.json",
+      "data/es-1.json",
+      "data/es-2.json",
+      "data/es-3.json",
+      "data/es-4.json",
+      "data/es-5.json",
+      "data/es-6.json",
+      "data/fr-0.json",
+      "data/fra-eng-LICENSE.txt",
+      "data/ja-0.json",
+      "data/ja-1.json",
+      "data/ja-2.json",
+      "data/ja-3.json",
+      "data/ja-4.json",
+      "data/ja-5.json",
+      "data/JMdict-documentation.html",
+      "data/zh-0.json",
+      "data/zh-1.json",
+      "data/zh-2.json",
+      "data/zh-3.json",
+      "data/zh-4.json",
+      "data/zh-5.json",
+      "data/zh-6.json"
+    ],
+    "changed": [
+      "background.js",
+      "content.js",
+      "core.js",
+      "editor.js",
+      "icon.svg",
+      "lexicon.js",
+      "manifest.json",
+      "options.html",
+      "options.js",
+      "popup.html",
+      "popup.js",
+      "ui.css"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.1",
+    "file": "passport-firefox-0.2.1.xpi",
+    "sha256": "4cf1d367732ea892a1b3f928331b0e9ae4ad384f4d49dbb8be13d1e30d9bf5e8",
+    "name": "Passport",
+    "added": [],
+    "changed": [
+      "content.js",
+      "dictionary.js",
+      "lexicon.js",
+      "manifest.json",
+      "omnibox.js",
+      "options.html"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.2",
+    "file": "passport-firefox-0.2.2.xpi",
+    "sha256": "84e1057b5f06db4d6985f1e2c2b60b1c849d4152670d67efcc5bd6ace64c82c5",
+    "name": "Passport",
+    "added": [
+      "ranking.js",
+      "rankings-data.js"
+    ],
+    "changed": [
+      "lexicon.js",
+      "manifest.json"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.3",
+    "file": "passport-firefox-0.2.3.xpi",
+    "sha256": "b291d38b594fee6c23dc856dd5e8eb58935f8d63cd16eac6c5f9a6318f2b9c82",
+    "name": "Passport",
+    "added": [],
+    "changed": [
+      "manifest.json",
+      "ranking.js",
+      "rankings-data.js"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.4",
+    "file": "passport-firefox-0.2.4.xpi",
+    "sha256": "e3a34a12bc04309e82a3223600309bf17f1e06597c8d3d9287363ecc5a98a934",
+    "name": "Passport",
+    "added": [
+      "live-ranking.js"
+    ],
+    "changed": [
+      "background.js",
+      "content.js",
+      "core.js",
+      "manifest.json",
+      "omnibox.js",
+      "options.html",
+      "options.js"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.5",
+    "file": "passport-firefox-0.2.5.xpi",
+    "sha256": "501133676a1cc210c57820f613a7a67f9688fe38cb62a66ffade4eed482c7f46",
+    "name": "Passport",
+    "added": [],
+    "changed": [
+      "content.js",
+      "dictionary.js",
+      "lexicon.js",
+      "live-ranking.js",
+      "manifest.json",
+      "omnibox.js",
+      "options.html"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.2.6",
+    "file": "passport-firefox-0.2.6.xpi",
+    "sha256": "f18ffa650f8a4cdff6c2adff197781e4a0d3c187aecfece40b936110b39917be",
+    "name": "Passport",
+    "added": [],
+    "changed": [
+      "background.js",
+      "content.js",
+      "core.js",
+      "lexicon.js",
+      "live-ranking.js",
+      "manifest.json",
+      "omnibox.js",
+      "options.js"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.3.0",
+    "file": "passport-firefox-0.3.0.xpi",
+    "sha256": "489fd5e66a48b1f43fa8275b125271bfe0d8f50c308d87ad81bd743ae4d2967c",
+    "name": "Passport",
+    "added": [
+      "appearance.js",
+      "setup.js"
+    ],
+    "changed": [
+      "background.js",
+      "content.js",
+      "core.js",
+      "manifest.json",
+      "options.html",
+      "options.js",
+      "popup.js",
+      "ui.css"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.3.1",
+    "file": "passport-firefox-0.3.1.xpi",
+    "sha256": "5f91231b25b4b7c287183a6134fd52119cc5c2e8e77ce6777efe3eb6d46d5ecf",
+    "name": "Passport",
+    "added": [],
+    "changed": [
+      "appearance.js",
+      "content.js",
+      "dictionary.js",
+      "manifest.json",
+      "options.html"
+    ],
+    "removed": []
+  },
+  {
+    "version": "0.3.2",
+    "file": "passport-firefox-0.3.2.xpi",
+    "sha256": "99e514d52d1556c8924f0245fad71a6170cd6b71f622b5d482758cf18e97d58f",
+    "name": "Passport",
+    "added": [],
+    "changed": [
+      "manifest.json",
+      "options.js"
+    ],
+    "removed": []
+  }
+]

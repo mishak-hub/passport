@@ -1,0 +1,43 @@
+{
+  "date": "2025-11-23",
+  "edition": "2025.11.23",
+  "headwords": "26660",
+  "maintainerName": "Karl Bartel",
+  "name": "eng-zho",
+  "releases": [
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-zho/2025.11.23/freedict-eng-zho-2025.11.23.src.tar.xz",
+      "checksum": "25aed0f1d7de68919aa9da1ba92d67f566ae4ea81660f42071c81fc21e56d4b210d61df379315678648c45ca7e52c4a0ba2eec009fbaab7c72e7472489e1fc4c",
+      "date": "2026-02-11",
+      "platform": "src",
+      "size": "1600448",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-zho/2025.11.23/freedict-eng-zho-2025.11.23.dictd.tar.xz",
+      "checksum": "e000f490fd62f7dfce672296b6b7d394fc85a953832493d14bad63ba7f3fc38e8ad33b34ee0382467359f15fab3c531b066b2a87f84682289660ce8a4aa782c1",
+      "date": "2026-02-11",
+      "platform": "dictd",
+      "size": "2175100",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-zho/2025.11.23/freedict-eng-zho-2025.11.23.slob",
+      "checksum": "5cb88c76c4fd77b9c2846233105281300e66ee035b623e31a1bece9ae806c96171ddb51f7d9b233572e8284a68b1c7aa89a6df125f7049b707fbe7e068da549e",
+      "date": "2026-02-11",
+      "platform": "slob",
+      "size": "3399498",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-zho/2025.11.23/freedict-eng-zho-2025.11.23.stardict.tar.xz",
+      "checksum": "059f9aca26fdc3a5a2c0c0e8fc92e111a34bf8fd438f70d267cccf35f5e47a2d45c46650999a1b3a48c3bffc3e16e0db897232128fe822d1bc59cf34f40b395c",
+      "date": "2026-02-11",
+      "platform": "stardict",
+      "size": "1672048",
+      "version": "2025.11.23"
+    }
+  ],
+  "sourceURL": "http://www.wikdict.com/",
+  "status": "big enough to be useful"
+}

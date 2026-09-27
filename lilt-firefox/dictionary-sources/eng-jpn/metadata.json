@@ -1,0 +1,43 @@
+{
+  "date": "2025-11-23",
+  "edition": "2025.11.23",
+  "headwords": "38419",
+  "maintainerName": "Karl Bartel",
+  "name": "eng-jpn",
+  "releases": [
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-jpn/2025.11.23/freedict-eng-jpn-2025.11.23.dictd.tar.xz",
+      "checksum": "77ce6d64b7cc04c6236da8afdce35a20fea8d5493d2d0929509bb733f559ec6432801923136bf98fd87f49e20f02581e0f5a95f6adf13fc842626eadbbf33b03",
+      "date": "2026-02-11",
+      "platform": "dictd",
+      "size": "3286780",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-jpn/2025.11.23/freedict-eng-jpn-2025.11.23.stardict.tar.xz",
+      "checksum": "5319e38d1b5c4daaa84d385d22408ee74041a90ffc4014868079f05682e3a1bc88191313e58fdaa8a19d9e80d0d9084978fe0c4f87d6e6a7b7d158de433ecf38",
+      "date": "2026-02-11",
+      "platform": "stardict",
+      "size": "2494964",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-jpn/2025.11.23/freedict-eng-jpn-2025.11.23.src.tar.xz",
+      "checksum": "b7206479585bf102e43ae8b982a1bd60cd8602bef64edd326826c30f322b63b8519bc284d080a28b7482fbb971b1081b5aed4fd65317f827a05454065166bb1b",
+      "date": "2026-02-11",
+      "platform": "src",
+      "size": "2334184",
+      "version": "2025.11.23"
+    },
+    {
+      "URL": "https://download.freedict.org/dictionaries/eng-jpn/2025.11.23/freedict-eng-jpn-2025.11.23.slob",
+      "checksum": "de50fea74cb44548394f170611a791e968e10507e25cda3c1f760331512447c3763bdb7f48c5ea91c6e6a3e585d9f0d2c7f0ccb03063e8f0966808a1a285bf59",
+      "date": "2026-02-11",
+      "platform": "slob",
+      "size": "5109466",
+      "version": "2025.11.23"
+    }
+  ],
+  "sourceURL": "http://www.wikdict.com/",
+  "status": "big enough to be useful"
+}

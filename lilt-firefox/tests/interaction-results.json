@@ -1,0 +1,76 @@
+{
+  "browser": "Mozilla/5.0 (win32) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/30.1.1",
+  "total": 16,
+  "passed": 15,
+  "results": [
+    {
+      "name": "Password and OTP fields are excluded",
+      "pass": true
+    },
+    {
+      "name": "Word translation replaces a plain textarea word",
+      "pass": true
+    },
+    {
+      "name": "Local suggestions appear while typing without a word model",
+      "pass": true
+    },
+    {
+      "name": "Pause automatically inserts a complete sentence",
+      "pass": true
+    },
+    {
+      "name": "First Enter sends immediately while a reconstruction is pending",
+      "pass": true
+    },
+    {
+      "name": "Automatic translation keeps the normal submission behavior",
+      "pass": true
+    },
+    {
+      "name": "Caret return exposes accepted sentence words and definitions",
+      "pass": true
+    },
+    {
+      "name": "Undo restores the previous wording",
+      "pass": true
+    },
+    {
+      "name": "Ambiguous matches wait for a choice; Tab previews meaning and Space commits",
+      "pass": true
+    },
+    {
+      "name": "Practice accepts approximate French spelling",
+      "pass": true
+    },
+    {
+      "name": "Romaji and toneless pinyin produce character candidates",
+      "pass": true
+    },
+    {
+      "name": "Turning translation off restores native typing and Enter",
+      "pass": true
+    },
+    {
+      "name": "Rich text edit preserves unrelated formatting",
+      "pass": true
+    },
+    {
+      "name": "Multiline rich-text offset mapping includes paragraphs",
+      "pass": true
+    },
+    {
+      "name": "Floating panel stays inside the viewport",
+      "pass": false,
+      "skipped": true,
+      "error": "Layout requires a real browser; Firefox automation was blocked."
+    },
+    {
+      "name": "Sentence response after another key is discarded",
+      "pass": true
+    }
+  ],
+  "environment": "jsdom simulation, not a Firefox installation or visual test",
+  "runtimeErrors": [],
+  "skipped": 1
+}

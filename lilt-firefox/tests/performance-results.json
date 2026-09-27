@@ -1,0 +1,27 @@
+{
+  "environment": "Node.js on this computer; dictionary engine only, not browser layout or model/network latency",
+  "entries": 361132,
+  "initialization": {
+    "fr": {
+      "readParseMs": 22.7,
+      "indexMs": 101
+    },
+    "es": {
+      "readParseMs": 199.5,
+      "indexMs": 660.8
+    },
+    "ja": {
+      "readParseMs": 176.1,
+      "indexMs": 712.3
+    },
+    "zh": {
+      "readParseMs": 202.7,
+      "indexMs": 741.5
+    }
+  },
+  "samples": 1600,
+  "p50Ms": 0.193,
+  "p95Ms": 0.297,
+  "p99Ms": 0.35,
+  "maxMs": 6.927
+}
