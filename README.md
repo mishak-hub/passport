@@ -4,11 +4,25 @@ Learn a language where you already type.
 
 Passport is a Firefox/Zen extension that suggests translated words inside webpage text fields, then uses an optional sentence model to repair grammar and meaning. Explore definitions, readings and pronunciation without copying your draft into a separate translator.
 
-**Status: prototype, version 0.3.2.** Automated tests pass; the latest repair still needs a recorded live Zen retest. Chrome, system-wide typing and universal website compatibility are not supported releases.
+**Status: prototype, version 0.3.2.** Automated tests pass; supplied recordings show selected Gmail and search interactions, while the full live validation checklist remains open. Chrome, system-wide typing and universal website compatibility are not supported releases.
 
 ## Demo
 
-**Video coming soon.** No filmed demo has been supplied yet. The [recording plan](docs/DEMO-PLAN.md) covers real typing, vocabulary inspection, sentence reconstruction and practice. Replace this paragraph with a real uploaded video link and optional poster after recording; do not publish a placeholder video URL.
+[![Passport demo: typing directly in a webpage](demo/poster.jpg)](demo/passport-demo.mp4)
+
+**[Watch the 67-second demo](demo/passport-demo.mp4)** · [Photography email](demo/photography-email.mp4) · [Japanese web search](demo/web-search.mp4) · [One Piece community search](demo/one-piece.mp4)
+
+Real user recordings, trimmed to typing sequences and played at **1.5× speed**, without audio. Setup, idle time and navigation were cut; playback is not a measurement of response latency. The French practice failure is excluded from this highlight and [documented separately](docs/FRENCH-PRACTICE-ISSUE.md). These clips demonstrate selected interactions, not universal compatibility or perfect translation.
+
+### What is happening on screen?
+
+| Clip | Visible interaction | Mechanism |
+|---|---|---|
+| Photography email | The user drafts a photography-related message inside Gmail; candidate words appear and the draft becomes Spanish as they type. | Local dictionaries supply word candidates. Space adopts the selected word. At eligible pauses or punctuation, a configured sentence model can reconstruct the current sentence using the retained original wording. The intermediate draft can contain mixed languages and incorrect senses. |
+| Japanese web search | English input becomes a Japanese query directly in DuckDuckGo's webpage search field. | The same field integration supplies candidates and inserts selections without a separate translator or copy/paste. The companion presents candidates and sentence previews. |
+| One Piece community search | The query includes the Japanese title ワンピース and a community search phrase. | Phrase-aware lookup and later sentence processing can preserve multiword names instead of translating each component literally. This example does not establish reliable handling of every name. |
+
+The recordings do not expose provider logs, so they do not establish which specific model generated each visible result or whether Jev reranked a particular word. See the [clip guide and edit timings](demo/README.md) for more detail.
 
 ## Features
 
@@ -106,9 +120,10 @@ The ordinary XPI does not hot reload. The developer runner uses a separate profi
 ## Validation and limitations
 
 - The retained full suite passed **116 tests**; extension lint reported zero errors, warnings or notices. These are automated checks, not proof of live website compatibility.
-- The open-Settings messaging regression has dedicated tests. A specific successful live Zen retest is not recorded.
+- The open-Settings messaging regression has dedicated tests. The supplied demo recordings do not specifically verify that regression or identify the installed extension version.
 - Targets standard text/search inputs, textareas and supported contenteditable editors. Protected pages, browser chrome, closed shadow roots and canvas editors are outside normal scope. Instagram and other custom editors need live testing.
 - Dictionaries, language detection, names, morphology and phonetic matching are incomplete. Non-English pairs may bridge through English and mix senses. The English `-ing` fallback is narrow, not a general grammar analyzer.
+- French practice can replace valid or contracted forms with unrelated spelling neighbors, including `suis` → `puis` and `mappelle` → `mamelle`. This is reproduced and [diagnosed](docs/FRENCH-PRACTICE-ISSUE.md), not fixed in this documentation update.
 - Some entries lack readings; voices depend on the system. Model character explanations may be wrong; Ollama currently omits character analyses.
 - Late results are discarded. Interior edits can invalidate source mappings; Undo is not a permanent document history.
 - Fixed placement can overlap sticky website controls; floating mode and gap controls may help.

@@ -1,0 +1,54 @@
+{
+  "combined_duration_seconds": 67.33430989583333,
+  "clips": [
+    {
+      "file": "photography-email.mp4",
+      "source": "Photography Email.mp4",
+      "source_ranges_seconds": [
+        [
+          4,
+          24
+        ],
+        [
+          29,
+          46
+        ],
+        [
+          51,
+          62
+        ],
+        [
+          66,
+          91
+        ]
+      ],
+      "speed": 1.5,
+      "duration_seconds": 48.666666666666664
+    },
+    {
+      "file": "web-search.mp4",
+      "source": "searching web.mp4",
+      "source_ranges_seconds": [
+        [
+          11.5,
+          31.5
+        ]
+      ],
+      "speed": 1.5,
+      "duration_seconds": 13.333333333333334
+    },
+    {
+      "file": "one-piece.mp4",
+      "source": "one piece.mp4",
+      "source_ranges_seconds": [
+        [
+          2.5,
+          10.5
+        ]
+      ],
+      "speed": 1.5,
+      "duration_seconds": 5.333333333333333
+    }
+  ],
+  "notes": "Typing excerpts, 1.5x speed, silent. Idle/setup/navigation sections and failed French practice omitted."
+}
